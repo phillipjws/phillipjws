@@ -1,6 +1,6 @@
 ## Phillip Steeves
 
-I'm a Software Engineering student at the University of Victoria. I enjoy working on projects that have difficult aspects of automation, as well as oppurtunities for optimization and efficiency. I mainly code in Python and C++, through work experience or coursework. 
+I'm a Software Engineering student at the University of Victoria. I enjoy working on projects that have difficult aspects of automation, as well as oppurtunities for optimization and efficiency. I mainly code in Python and C++, through work experience or coursework. My most recent work has been conducting coastal change research, which has also given me very strong GIS skills. Remote sensing is a new passion, and I hope to continue to integrate this into my software engineering workflow.
 
 More info about me and my projects can be found on my [personal website](https://phillipsteeves.com/)
 
