@@ -1,4 +1,8 @@
-## Hi there 👋
+## Phillip Steeves
+
+I'm a Software Engineering student at the University of Victoria. I enjoy working on projects that have difficult aspects of automation, as well as oppurtunities for optimization and efficiency. I mainly code in Python and C++, through work experience or coursework. 
+
+More info about me and my projects can be found on my [personal website](https://phillipsteeves.com/)
 
 <!--
 **phillipjws/phillipjws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kvos&show_icons=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvos&show_icons=true&count_private=true"/>
+</p>
