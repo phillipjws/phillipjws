@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 -->
 <p align="center">
   <img src="https://github-readme-stats-one-liart-50.vercel.app/api?username=phillipjws&show_icons=true&count_private=true&hide=stars&theme=transparent"/>
-  <img src="https://github-readme-stats-one-liart-50.vercel.app/api/top-langs/?username=phillipjws&show_icons=true&count_private=true&theme=transparent"/>
+  <img src="https://github-readme-stats-one-liart-50.vercel.app/api/top-langs/?username=phillipjws&show_icons=true&count_private=true&theme=transparent&layout=compact"/>
 </p>
