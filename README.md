@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Phil's GitHub stats](https://github-readme-stats.vercel.app/api?username=phillipjws&show_icons=true&count_private=true&hide_stars)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
   
   <img src="https://github-readme-stats-one-liart-50.vercel.app/api?username=phillipjws&show_icons=true&count_private=true&hide_stars"/>
