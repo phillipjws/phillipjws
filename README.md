@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  
-  <img src="https://github-readme-stats-one-liart-50.vercel.app/api?username=phillipjws&show_icons=true&count_private=true&hide_stars"/>
-  <img src="[https://github-readme-stats-one-liart-50.vercel.app](https://github-readme-stats.vercel.app/api/top-langs/?username=phillipjws&show_icons=true&count_private=true"/>
+  <img src="https://github-readme-stats-one-liart-50.vercel.app/api?username=phillipjws&show_icons=true&count_private=true&hide=stars&theme=transparent"/>
+  <img src="https://github-readme-stats-one-liart-50.vercel.app/api/top-langs/?username=phillipjws&show_icons=true&count_private=true&theme=transparent"/>
 </p>
